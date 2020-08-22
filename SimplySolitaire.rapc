@@ -1,0 +1,10 @@
+MIDlet-Name: SimplySolitaire
+MIDlet-Version: 1.0.0.3
+MIDlet-Vendor: mlhsoftware.com
+MIDlet-Description: Classic solitaire card game
+MIDlet-Jar-URL: SimplySolitaire.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Simply Solitaire,img/icon.png,
+RIM-MIDlet-Flags-1: 0
